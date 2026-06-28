@@ -1,0 +1,11 @@
+metric,value
+Source rows,320
+Rows used after listwise deletion,306
+Rows excluded for missing model fields,14
+Predictor count including dummies,14
+R-squared,0.8554134219171526
+Adjusted R-squared,0.8484573666141978
+F-statistic,122.97392482687455
+F-test p-value,3.76968052550832e-113
+Residual standard error,40068.59463517275
+Dependent variable,monthly_sales
